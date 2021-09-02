@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="windbell-project"
+          fetch="https://github.com/windbell-project"
+          pushurl="ssh://git@github.com/windbell-project"
+          revision="lineage-18.1" />
+
+      <project name="windbell-project/android_device_xiaomi_tiffany" path="device/xiaomi/tiffany" remote="github" />
+      <project name="windbell-project/android_device_xiaomi_msm8953-common" path="device/xiaomi/msm8953-common" remote="github" />
+      <project name="windbell-project/android_kernel_xiaomi_msm8953" path="kernel/xiaomi/msm8953" remote="github" />
+      <project name="windbell-project/vendor_xiaomi" path="vendor/xiaomi" remote="github" />
+      <project name="kidachiP/vendor_xiaomi_MiuiCamera" path="vendor/xiaomi/MiuiCamera" remote="github" revision="11-R" />
+
+</manifest>
