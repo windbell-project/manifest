@@ -14,7 +14,9 @@
       <project name="windbell-project/android_device_xiaomi_tiffany" path="device/xiaomi/tiffany" remote="github" revision="lineage-19.0" />
       <project name="windbell-project/android_device_xiaomi_msm8953-common" path="device/xiaomi/msm8953-common" remote="github" />
       <project name="windbell-project/android_kernel_xiaomi_msm8953" path="kernel/xiaomi/msm8953" remote="github" revision="lineage-19.1" />
-      <project name="windbell-project/vendor_xiaomi" path="vendor/xiaomi" remote="github" revision="lineage-19.1" />
+      <project name="windbell-project/android_vendor_xiaomi_msm8953-common" path="vendor/xiaomi/msm8953-common" remote="github" />
+      <project name="windbell-project/android_vendor_xiaomi_tiffany" path="vendor/xiaomi/tiffany" remote="github" />
       <project name="windbell-project/android_vendor_xiaomi_firmware" path="vendor/xiaomi/firmware" remote="github" revision="lineage-18.1" />
+      <project name="LineageOS/android_hardware_xiaomi" path="hardware/xiaomi" remote="github" />
 
 </manifest>
